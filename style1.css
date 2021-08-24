@@ -1,0 +1,40 @@
+header{
+    color: black;
+    font-family: Hachi Maru Pop;
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: center;
+}
+h2{
+    color: purple;
+    text-align: center;
+    padding-top: 2% ;
+    font-family: Pacifico;
+    font-style: italic;
+    font-size: 220%;
+}
+    h3{
+        color: rgb(220,24,240);
+        text-align : center;
+        font-family: algerian;
+        font-size: 150%;
+
+    }
+h4{
+    color: aqua;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-size: 200%;
+}
+h6{
+    color: black;
+    text-align: left;
+    font-family: dancing-script;
+    font-style: oblique;
+    font-size: 150%;
+}
+nav {
+    
+ text-align: 25%;
+}
