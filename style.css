@@ -1,0 +1,46 @@
+header{
+    color: black;
+    font-family: Hachi Maru Pop;
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: center;
+}
+nav{
+    color: rgb(98, 237, 241);
+    font-family: Dancing Script;
+    font-size: 20px;
+    font: outline;
+    font-style: oblique;
+    text-align: center; padding: 4%;
+}
+nav:hover{
+    color: coral;
+    text-align: center;
+   
+    margin-left: 10px;
+}
+h2{
+    color: purple;
+    text-align: center;
+    padding-top: 2% ;
+    font-family: Pacifico;
+    font-style: italic;
+    font-size: 220%;
+}
+h4{
+    color: black;
+    text-align: center;
+    font-weight: 600;
+    font-style: oblique;
+    font-size: 120%;
+}
+p{
+    color: rgb(14, 4, 14);
+    text-align: left;
+    padding-top: 0.5% ;
+    font-family:https://fonts.google.com/specimen/Dancing+Script?category=Handwriting;
+    font-style: oblique; 
+    font-size: 120%;
+}
+
+   
